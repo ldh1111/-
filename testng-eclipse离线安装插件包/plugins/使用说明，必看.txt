@@ -1,0 +1,1 @@
+将此目录下的压缩包解压后得到的目录放到eclipse的plugins目录，然后重启eclipse。
